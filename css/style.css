@@ -2050,7 +2050,12 @@ button{
   box-sizing:border-box;
 }
 
-
+.bgmbtn{
+    padding-top: 1px;
+    height: 25px;
+    width: auto;
+    font-size: 15px;
+}
 
 
 
